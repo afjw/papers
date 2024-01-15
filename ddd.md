@@ -36,5 +36,4 @@
     "CQRS by Example" by Greg Young (2010) - Explains the CQRS pattern, another frequently paired concept with DDD.
 
 ## Free Learning Resources:
-
-    [Free Domain-Driven Design Learning Resources](https://github.com/ddd-crew/free-ddd-learning-resources) - An extensive collection of curated blog posts, videos, and other materials.
+[Free Domain-Driven Design Learning Resources](https://github.com/ddd-crew/free-ddd-learning-resources)
