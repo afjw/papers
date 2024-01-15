@@ -12,5 +12,8 @@
 
 ---
 ## base concepts
+
+- [Division of labour - have a application chassis core team and various business domain teams](https://github.com/afjw/papers/blob/main/divisionOfLabour.md)
+
 ---
 ### [markdown reference](https://www.markdownguide.org/cheat-sheet/)
