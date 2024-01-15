@@ -14,6 +14,7 @@
 ## Base concepts
 
 - [Division of labour - have a application chassis core team and various business domain teams](https://github.com/afjw/papers/blob/main/divisionOfLabour.md)
+- [Inter process Communications](https://github.com/afjw/papers/blob/main/InterProcessCommunications.md)
 
 ---
 ### [markdown reference](https://www.markdownguide.org/cheat-sheet/)
