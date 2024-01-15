@@ -16,8 +16,8 @@ Combining the agility of microservices with the reactivity of event-driven archi
 
 # Free Learning Resources:
 
-- [Udemy Course: The Complete Microservices & Event-Driven Architecture: A comprehensive video course covering both concepts in detail, with practical examples and exercises.](https://www.udemy.com/course/the-complete-microservices-even>
+- [Udemy Course: The Complete Microservices & Event-Driven Architecture: A comprehensive video course covering both concepts in detail, with practical examples and exercises.](https://www.udemy.com/course/the-complete-microservices-event-driven-architecture/)
 - [Event-Driven Microservices with Apache Kafka by Pluralsight: A series of videos exploring event-driven architecture implementation using Apache Kafka as the event broker.](https://m.youtube.com/watch?v=YDT9W5nva_Y)
-- [O'Reilly's Microservices Demystified: A free eBook offering a foundational understanding of microservices architecture, including event-driven communication.](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034>
+- [O'Reilly's Microservices Demystified: A free eBook offering a foundational understanding of microservices architecture, including event-driven communication.](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/ch01.html)
 - [Confluent's Blog: A resource on Apache Kafka, a popular event streaming platform commonly used in event-driven microservices architectures.](https://www.confluent.io/blog/)
 
