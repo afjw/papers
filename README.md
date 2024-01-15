@@ -7,4 +7,4 @@
 ---
 ## base concepts
 ---
-### [markdown reference] (https://www.markdownguide.org/cheat-sheet/)
+### [markdown reference](https://www.markdownguide.org/cheat-sheet/)
