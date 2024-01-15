@@ -37,12 +37,4 @@
 
 ## Free Learning Resources:
 
-    GitHub - [Free Domain-Driven Design Learning Resources] (https://github.com/ddd-crew/free-ddd-learning-resources) - An extensive collection of curated blog posts, videos, and other materials.
-    GitHub - [SAP/curated-resources-for-domain-driven-design] (https://github.com/SAP/curated-resources-for-domain-driven-design) - More DDD learning resources, including talks, conferences, and books.
-    [heynickc/awesome-ddd] (https://github.com/heynickc/awesome-ddd) - A curated list of DDD, CQRS, Event Sourcing, and Event Storming resources.
-    [Microsoft Learn - Best Practice - An Introduction To Domain-Driven Design] (https://learn.microsoft.com/en-us/training/modules/introduction-to-ad-ds/) - A basic introduction to DDD concepts on Microsoft Learn.
-    [DDD Crew Blog] (https://github.com/ddd-crew) - Blog posts written by DDD practitioners on various topics.
-    [Virtual DDD Meetup Group] (https://www.meetup.com/virtual-domain-driven-design-meetup/) - Online meetup group with discussions and presentations on DDD.
-    [DDD-CQRS-ES Discord Server] (https://github.com/ddd-cqrs-es/community) - Active community server for questions and discussions about DDD, CQRS, and Event Sourcing.
-
-These are just a few starting points. The DDD community is quite active, so you'll find plenty of helpful resources and discussions online.
+    [Free Domain-Driven Design Learning Resources](https://github.com/ddd-crew/free-ddd-learning-resources) - An extensive collection of curated blog posts, videos, and other materials.
