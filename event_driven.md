@@ -6,7 +6,7 @@ Combining the agility of microservices with the reactivity of event-driven archi
 
 - [Microservices.io - Pattern: Event-Driven Architecture: A concise overview of the concepts and how they fit within the microservices landscape.](https://microservices.io/patterns/data/event-driven-architecture)
 - [Reactive Manifesto: While not directly about microservices, this manifesto outlines the principles of reactive systems, fundamental to event-driven architectures.](https://reactivemanifesto.org/)
-- [Building Event-Driven Microservices by Nate Walkingshaw: A pragmatic guide to designing and implementing event-driven microservices with real-world examples.](https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/>
+- [Building Event-Driven Microservices by Nate Walkingshaw: A pragmatic guide to designing and implementing event-driven microservices with real-world examples.](https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/)
 
 # Key Websites:
 
